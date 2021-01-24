@@ -85,7 +85,7 @@ doorImage3.onclick = () => {
 
 
 startButton.onclick = () =>{
-    if (!currentlyPlayingC){
+    if (!currentlyPlaying){
         startRound();
     }
 }
